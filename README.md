@@ -9,3 +9,8 @@ The main branch always contains production-ready code.
 
 Feature branches are created from main.
 This feature adds login functionality.
+
+## Stage 3: Feature Merged
+
+The feature/add-login branch was merged into main using a Pull Request.
+Main remains production-ready and deployable.

@@ -9,3 +9,9 @@ git checkout -b feature/add-login
 git add .
 git commit -m "Add login feature"
 git push -u origin feature/add-login
+
+=== PR Merge ===
+feature/add-login merged into main via GitHub Pull Request
+update main locally
+git checkout main
+git pull origin main
